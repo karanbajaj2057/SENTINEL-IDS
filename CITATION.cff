@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "SENTINEL IDS"
+message: "If you use this project in academic or professional work, please cite the repository and live demo."
+type: software
+authors:
+    given-names: "karanbir singh"
+repository-code: "https://github.com/karanbajaj2057/sentinel-ids"
+url: "https://networkintrusiondetectionsystemidssimulation.lovable.app/"
+license: "MIT"
+year: 2026

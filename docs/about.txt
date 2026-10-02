@@ -1,0 +1,16 @@
+GitHub About / Repository Settings
+
+Repository name:
+sentinel-ids
+
+Description:
+SENTINEL IDS — a defensive network intrusion detection simulation with synthetic traffic, signature-based detection, z-score anomaly detection, SOC investigation, alerting, and incident reporting.
+
+Website:
+https://networkintrusiondetectionsystemidssimulation.lovable.app/
+
+Topics:
+cybersecurity, intrusion-detection, ids, network-security, soc, threat-detection, anomaly-detection, security-monitoring, cyber-defense, simulation
+
+Recommended first release:
+v1.0.0 — Initial Sentinel IDS simulation release
